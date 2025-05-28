@@ -1,0 +1,53 @@
+---
+title: "Contact"
+format: html
+---
+
+<style>
+  .contact-card {
+    max-width: 600px;
+    margin: auto;
+    padding: 2rem;
+    background-color: #f8f9fa;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.05);
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+  }
+  .contact-card h1 {
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+    color: #003366;
+  }
+  .contact-card p {
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 1.5rem;
+  }
+  .contact-link {
+    display: block;
+    margin: 10px 0;
+    font-size: 1.1rem;
+    color: #003366;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+  }
+  .contact-link:hover {
+    color: #0052cc;
+    text-decoration: underline;
+  }
+</style>
+
+<div class="contact-card">
+  <h1>📫 Get in Touch</h1>
+  <p>
+    I’m always open to networking, collaboration, or discussing finance, technology, and leadership.
+    Feel free to connect with me through any of the methods below.
+  </p>
+
+  <a class="contact-link" href="mailto:neha.sampath@outlook.com">📧 neha.sampath@outlook.com</a>
+  <a class="contact-link" href="tel:+16729659697">📱 +1 672-965-9697</a>
+  <a class="contact-link" href="hhttps://www.linkedin.com/in/neha-sampath-295413207/" target="_blank">🔗 linkedin.com/in/nehasampath</a>
+</div>
+

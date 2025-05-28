@@ -1,0 +1,76 @@
+---
+title: "Skills & Certifications"
+format: html
+---
+
+# 💻 Technical Skills
+
+- Microsoft Office
+- Microsoft Dynamics 365  
+- Tableau 
+- SQL
+
+## 🔧 Technical Skills
+
+<table>
+  <tr>
+    <td width="50"><img src="assets/microsoft office.png" width="40"></td>
+    <td><strong>Microsoft Office</strong><br>
+      <progress value="90" max="100"></progress>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/dynamics.png" width="40"></td>
+    <td><strong>Microsoft Dynamics 365</strong><br>
+      <progress value="70" max="100"></progress>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/tableau.png" width="40"></td>
+    <td><strong>Tableau</strong><br>
+      <progress value="50" max="100"></progress>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/sql.png" width="40"></td>
+    <td><strong>SQL</strong><br>
+      <progress value="50" max="100"></progress>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+# 🧠 Soft Skills
+
+- Leadership 
+- Financial Planning & Analysis (FP&A)
+- Cross-cultural communication
+- Account Management 
+- Problem Solving
+
+---
+
+## 📜 Certifications
+
+<table>
+  <tr>
+    <td width="50"><img src="assets/harvard.png" width="40" alt="Harvard logo"></td>
+    <td><strong>Financial Accounting</strong><br>Harvard Business School, 2024</td>
+  </tr>
+  <tr>
+    <td><img src="assets/skillnation.png" width="40" alt="Skill Nation logo"></td>
+    <td><strong>AI and Automation in MS Excel</strong><br>Skill Nation, 2023</td>
+  </tr>
+  <tr>
+    <td><img src="assets/dmi.png" width="40" alt="DMI logo"></td>
+    <td><strong>Digital Marketing Associate</strong><br>Digital Marketing Institute, 2024</td>
+  </tr>
+</table>
+
+
+
+# 🌟 Summary
+
+These skills and capabilities allow me to bring together financial analysis, process improvement, as well as effective communications — three pillars along my way to strategic finance leadership.

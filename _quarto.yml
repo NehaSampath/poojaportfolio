@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Neha Sampath's MBA Portfolio"
+  navbar:
+    left:
+      - text: Home
+        file: index.qmd
+      - text: My Journey
+        file: journey.qmd
+      - text: Casework
+        file: casework.qmd
+      - text: Skillset
+        file: skills.qmd
+      - text: Leadership
+        file: leadership.qmd
+      - text: Contact
+        file: contact.qmd

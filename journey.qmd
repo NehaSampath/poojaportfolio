@@ -1,0 +1,51 @@
+---
+title: "My Journey"
+format: html
+---
+
+# 📘 Education
+
+**Master of Business Administration (MBA) – University Canada West, Vancouver**  
+*Expected Graduation: 2025*  
+Focus: Major focus in accounting and auditing
+
+
+**Bachelor of Business Administration (BBA) – Jain(Deemed to be University), Bengaluru**  
+*Graduated: 2023*  
+Major: Finance  
+
+---
+
+# 💼 Professional Experience
+
+### Finance Intern – Hellmann Worldwide Logistics  
+*Bengaluru, India | (Oct 2023 – Jan 2024) (Sept 2022 - Jan 2023)*  
+- Supported forecasting and budgeting across India - Assisted ERP transition to Microsoft Dynamics 365
+
+### Finance Assistant – Outlook India  
+*Bengaluru, India | Jun – Aug 2021*  
+- Developed Excel dashboards for budget tracking - Quick reporting turnaround and verified project costs.
+
+ 
+ 
+  <p align="center">
+  <a href="assets/resume-neha.pdf" download
+     style="
+       display:inline-block;
+       background-color:#003366;
+       color:#ffffff;
+       font-weight:500;
+       font-family: sans-serif;
+       padding: 12px 24px;
+       border-radius: 8px;
+       text-decoration: none;
+       box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+       transition: background-color 0.3s ease;">
+    📎 Download My Resume (PDF)
+  </a>
+</p>
+
+
+
+ 
+  

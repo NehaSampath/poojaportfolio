@@ -1,0 +1,65 @@
+---
+title: "Home"
+format: html
+---
+
+<style>
+  .centered {
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  .tagline {
+    font-size: 1.2rem;
+    color: #444;
+    font-style: italic;
+    margin-top: -10px;
+  }
+  .button {
+    display: inline-block;
+    background-color: #003366;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 5px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 500;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: background 0.3s ease;
+  }
+  .button:hover {
+    background-color: #001f4d;
+  }
+</style>
+
+<div class="centered">
+
+# 👋 Hi, I'm Neha Sampath
+
+<div class="tagline">
+From journal entries to executive insights — charting a CFO path.
+</div>
+
+<p align="center">
+  <img src="assets/profile-neha.jpeg" width="180px" alt="Profile photo of Neha Sampath" style="border-radius: 50%;">
+</p>
+
+
+
+---
+
+## 💼 About Me
+
+Welcome to my portfolio. I am an MBA student with a deep interest in accounting and finance looking to make my financial operations more transparent, efficient, and strategic. Follow along as I map my journey, projects, and set of skills as I pave my way to future CFO status.
+
+---
+
+## 🔗 Explore My Portfolio
+
+<a href="journey.qmd" class="button">📄 View My Resume</a>
+<a href="casework.qmd" class="button">📊 Projects</a>
+<a href="skills.qmd" class="button">🛠️ Skills</a>
+<a href="contact.qmd" class="button">📬 Contact Me</a>
+
+</div>
+
+

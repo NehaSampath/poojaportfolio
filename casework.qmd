@@ -1,0 +1,14 @@
+---
+title: "Casework"
+format: html
+---
+
+# 🔍 Project Highlights
+
+## 🧠 ERP Finance Transformation - Hellmann Worldwide Logistics
+Led a mission-critical workstream in moving India’s financial processes to Microsoft Dynamics 365 Finance & Operations (D365 F&O). Directed simplification and reduction in general ledger (GL) mappings with introduction of standardized master data principles in cost centers, legal entities, and reporting segments. This initiative improved financial data accuracy significantly, reduced reconciliation time by an appreciable percentage, and improved reporting accuracy by 15%. Worked very closely with various cross-functional groups including IT, regional controllers, and global ERP experts to enable smooth implementation, user preparedness, and change management. The project laid grounds for future automation and global standardization for finance.
+
+---
+
+## 🧮 Process Optimization project – Outlook India  
+Over the course of my internship, I created and implemented a centralized budget tracking system for the editorial department to meet an existing need for cost reporting and management. The solution fused disparate data feeds into a single integrated and user-friendly platform that facilitated real-time tracking of project expenditure. Budget authorization and reconciliation processing time were reduced by 25% as a result and accountability among editorial teams improved through greater transparency and defined budget ownership. I collaborated with editorial management and finance staff to design reporting parameters and developed automated classification rules to ensure accuracy and consistency. The system was embraced by senior management as a best practice model across other departments and as a springboard for additional electronic process improvement.
