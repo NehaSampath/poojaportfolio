@@ -1,20 +1,25 @@
 project:
-  type: website
-  output-dir: _site
+type: website
 
 website:
-  title: "Neha Sampath's MBA Portfolio"
+  title: "poojaportfolio"
   navbar:
     left:
       - text: Home
-        file: index.qmd
+        href: index.qmd
       - text: My Journey
-        file: journey.qmd
+        href: journey.qmd
       - text: Casework
-        file: casework.qmd
+        href: casework.qmd
       - text: Skillset
-        file: skills.qmd
+        href: skills.qmd
       - text: Leadership
-        file: leadership.qmd
+        href: leadership.qmd
       - text: Contact
-        file: contact.qmd
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
